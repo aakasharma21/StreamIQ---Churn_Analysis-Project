@@ -1,6 +1,6 @@
 <div align="center">
 
-![StreamIQ Banner](StreamIQ_Churn%20Project/Dashboard_Screenshot/Home.png)
+![StreamIQ Banner](Dashboard_Screenshot/Home.png)
 
 # StreamIQ Analytics — OTT Customer Churn Analysis
 
@@ -111,14 +111,14 @@ Raw Excel Data  →  Data Cleaning (Excel)  →  SQL Analysis (SQL Server)  → 
 ### Page 1 — Churn Overview
 > Churn rate KPI · Churn by age group · Churn % by platform · Revenue vs churn by subscription
 
-![Dashboard Overview](StreamIQ_Churn%20Project/Dashboard_Screenshot/Overview.png)
+![Dashboard Overview](Dashboard_Screenshot/Overview.png)
 
 ---
 
 ### Page 2 — Behavioral & Geographic Breakdown
 > Churn reason breakdown · Subscription mix · Most preferred platform · Total churn by location · Device usage vs churn · Gender distribution · Payment mode · Genres distribution · Payment plan vs churn · Net attrition by platform & reason
 
-![Dashboard Overview 2](StreamIQ_Churn%20Project/Dashboard_Screenshot/Overview2.PNG)
+![Dashboard Overview 2](Dashboard_Screenshot/Overview2.PNG)
 
 ---
 
